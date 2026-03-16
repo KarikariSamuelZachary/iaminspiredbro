@@ -1,2 +1,1 @@
-# iaminspiredbro
-My personal portfolio website built with React, designed to showcase my work as an AI Engineer. A clean modern space to explore my skills, experience and journey in the field of artificial intelligence.
+My personal portfolio website to showcase my work as an AI Engineer/Researcher. This repository contains the source for a clean and modern portfolio site highlighting projects, experience, resume and contact information.
